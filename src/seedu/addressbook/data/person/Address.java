@@ -14,7 +14,6 @@ public class Address extends Contact {
 
 
     /**
-     * Validates given address.
      *
      * @throws IllegalValueException if given address string is invalid.
      */
